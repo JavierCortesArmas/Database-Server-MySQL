@@ -1,3 +1,3 @@
 <header>
-        <a href="/Database-Server-MySQL/docs">SERVERS</a>
+        <a href="/Database-Server-MySQL">SERVERS</a>
 </header>
