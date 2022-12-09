@@ -12,8 +12,8 @@
     <?php require 'partials/header.php' ?>
     <body style='background-image: linear-gradient(to right, #1d4387, #37509a, #4e5dad, #656ac1, #7c78d4);'> 
     <h1>Please Login or SignUp</h1>
-    <a href="login.php"><input type="submit3" value="Login"></a>
-    <a href="signup.php"><input type="submit3" value="SignUp"></a>    
+    <a href="login.php"><input type="submit" value="Login"></a>
+    <a href="signup.php"><input type="submit" value="SignUp"></a>    
 </body>
 </html>
    
