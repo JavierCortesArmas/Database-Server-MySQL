@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    
     <?php require 'partials/header.php' ?>
 
     <?php if(!empty($message)): ?>
